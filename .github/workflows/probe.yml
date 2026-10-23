@@ -1,0 +1,4 @@
+name: probe
+on:/n  push:/n    branches: [main]
+jobs:/n  t:/n    runs-on: ubuntu-latest
+    steps:/n      - run: echo hello-from-actions
